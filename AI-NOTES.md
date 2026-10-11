@@ -27,3 +27,5 @@ Song X berhasil ditambahkan di antara Song B dan Song C, kemudian Song C berhasi
 Pada pengujian bug, traversal mundur masih menampilkan Song C karena pointer `prev` belum diperbarui. Setelah diperbaiki, traversal mundur menampilkan data yang sesuai.
 
 Dari pengujian ini, saya memahami bahwa pointer `prev` dan `next` harus diperbarui dengan benar saat node ditambahkan atau dihapus.
+
+
