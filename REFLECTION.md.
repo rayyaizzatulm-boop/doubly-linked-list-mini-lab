@@ -1,0 +1,9 @@
+## Reflection: Rayya Izzatul Mila (Tester & Reviewer)
+
+- **Name:** Rayya Izzatul Mila
+- **My main contribution:** Menguji seluruh operasi (traversal, insert, delete), menjalankan edge case, mensimulasikan dan memperbaiki bug Task 9, serta mereview kode dan Pull Request tim.
+- **What I learned about next and prev:** next dipakai untuk bergerak maju dan prev untuk mundur. Setiap insert dan delete harus memperbarui kedua pointer, kalau tidak, forward dan backward traversal menghasilkan data yang berbeda.
+- **The hardest part:** Memastikan kasus head dan tail ikut diperbarui saat delete, serta tidak mengakses pointer NULL.
+- **What AI helped me with:** Menjelaskan konsep pointer update dan menyarankan edge case yang perlu diuji.
+- **What I changed or fixed myself:** Menjalankan dan memodifikasi kode, membuat bug sengaja di Task 9, memverifikasi hasilnya sendiri, lalu memperbaikinya.
+- **GitHub Issue / PR / Commit I contributed:** Issue #[nomor], PR #5, commit "Add edge case tests notes".
