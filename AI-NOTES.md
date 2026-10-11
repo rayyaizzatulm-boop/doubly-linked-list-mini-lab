@@ -28,4 +28,5 @@ Pada pengujian bug, traversal mundur masih menampilkan Song C karena pointer `pr
 
 Dari pengujian ini, saya memahami bahwa pointer `prev` dan `next` harus diperbarui dengan benar saat node ditambahkan atau dihapus.
 
+Catatan Tester: Task 9 break and fix sudah diuji.
 
