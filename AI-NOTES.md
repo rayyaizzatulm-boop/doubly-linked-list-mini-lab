@@ -17,6 +17,13 @@ AI juga membantu menjelaskan fungsi pointer `prev` dan `next`, serta cara melaku
 * Pointer `prev` digunakan untuk menuju node sebelumnya.
 * Saat menambahkan atau menghapus node, hubungan antar-pointer harus diperbarui agar list tetap terhubung dengan benar.
 
+
 ## Pengujian
 
-Program perlu dijalankan dan diperiksa untuk memastikan setiap fungsi bekerja sesuai tujuan. Hasil pengujian dan perbaikan akan ditambahkan setelah proses pengujian dilakukan.
+Program sudah dijalankan melalui Terminal di VS Code. Dari hasil pengujian, list berhasil menampilkan data dari depan dan belakang.
+
+Song X berhasil ditambahkan di antara Song B dan Song C, kemudian Song C berhasil dihapus dari list.
+
+Pada pengujian bug, traversal mundur masih menampilkan Song C karena pointer `prev` belum diperbarui. Setelah diperbaiki, traversal mundur menampilkan data yang sesuai.
+
+Dari pengujian ini, saya memahami bahwa pointer `prev` dan `next` harus diperbarui dengan benar saat node ditambahkan atau dihapus.
