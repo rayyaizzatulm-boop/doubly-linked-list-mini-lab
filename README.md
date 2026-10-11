@@ -8,8 +8,8 @@ Doubly Linked List adalah struktur data yang setiap node-nya memiliki data dan d
 
 ## 2. Anggota Kelompok
 
-1. Nama: Aninda Marethaningtyas Cessary Putri Bellammy — NIM: 1030125300389
-2. Nama: Rayya Izzatul Mila — NIM: 103012530009
+1. Nama: Aninda Marethaningtyas Cessary Putri Bellammy — NIM: 1030125300389 (Builder & Documenter)
+2. Nama: Rayya Izzatul Mila — NIM: 103012530009 (Tester & Reviewer)
 
 ## 3. Tujuan
 
